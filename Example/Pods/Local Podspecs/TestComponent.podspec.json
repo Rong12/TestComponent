@@ -1,0 +1,22 @@
+{
+  "name": "TestComponent",
+  "version": "0.1.0",
+  "summary": "A short description of TestComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Rong12/TestComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rong12": "xuerongrong@chinaath.com"
+  },
+  "source": {
+    "git": "https://github.com/Rong12/TestComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestComponent/Classes/**/*"
+}
