@@ -7,6 +7,7 @@
 //
 
 #import "RRViewController.h"
+#import "Person.h"
 
 @interface RRViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    Person *p = [[Person alloc] init];
+    [p test];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

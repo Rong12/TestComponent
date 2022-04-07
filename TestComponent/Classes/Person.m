@@ -8,5 +8,7 @@
 #import "Person.h"
 
 @implementation Person
-
+- (void)test {
+    NSLog(@"测试输出");
+}
 @end
