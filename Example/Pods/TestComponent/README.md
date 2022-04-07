@@ -1,0 +1,29 @@
+# TestComponent
+
+[![CI Status](https://img.shields.io/travis/Rong12/TestComponent.svg?style=flat)](https://travis-ci.org/Rong12/TestComponent)
+[![Version](https://img.shields.io/cocoapods/v/TestComponent.svg?style=flat)](https://cocoapods.org/pods/TestComponent)
+[![License](https://img.shields.io/cocoapods/l/TestComponent.svg?style=flat)](https://cocoapods.org/pods/TestComponent)
+[![Platform](https://img.shields.io/cocoapods/p/TestComponent.svg?style=flat)](https://cocoapods.org/pods/TestComponent)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+TestComponent is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'TestComponent'
+```
+
+## Author
+
+Rong12, xuerongrong@chinaath.com
+
+## License
+
+TestComponent is available under the MIT license. See the LICENSE file for more info.

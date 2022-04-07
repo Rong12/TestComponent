@@ -19,7 +19,7 @@
 {
     [super viewDidLoad];
     Person *p = [[Person alloc] init];
-    [p test];
+//    [p test];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
